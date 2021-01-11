@@ -1,2 +1,2 @@
 # Data-Search
-A python script that aims to search and perform action on targeted files
+The python script is used to assist scanning complex projects for bugs, license and security vulnerabilities (Platform Specific)
